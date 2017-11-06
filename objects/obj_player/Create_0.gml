@@ -1,5 +1,20 @@
-/// @description Insert description here
-// You can write your code in this editor
+
+/*playerAction numbers:
+0: Idle
+1: Melee 
+2: Ranged
+....
+*/
+
+//playerMoving variable is attached to all movement code as true.
+
+//player starts in idle 
+ global.playerAction = 0
+playerMoving = false 
+health = 100
+ 
+
+
 self.elapsed = room_speed
 self.grid_x = x / global.grid_width / global.scale_factor
 self.grid_y = y / global.grid_width / global.scale_factor

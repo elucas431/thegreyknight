@@ -11,4 +11,6 @@ if target_val != 1 {
 	self.grid_y -= 1
 	depth += 1
 	playerMoving = true
+	with obj_enemy { event_user(0) }
+
 }

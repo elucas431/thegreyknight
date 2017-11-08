@@ -9,8 +9,8 @@ if enemyHit == true {
 enemyHit = false
 if global.damageBoost == 0 {
 
-//Takes 4 regular hits to kill an enemy. Adjust if need be. 
-enemyHealth -= 25
+//Takes 3 regular hits to kill an enemy. Adjust if need be. 
+enemyHealth -= 40
 }
 else if global.damageBoost > 0 {
 	

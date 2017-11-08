@@ -11,4 +11,7 @@ enemy is doing. Moving, Attacking, etc.
 enemyAction = 0
 enemyHealth = 100
 enemyHit = false
+grid_x = 0
+grid_y = 0
 
+path = path_add();

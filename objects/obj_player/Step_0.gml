@@ -5,8 +5,8 @@ mouseY = mouse_y - y
 
 if self.elapsed <= room_speed / 3 {
 	var inter = cub_ease(0, room_speed / 3, elapsed)
-	var inter_x = self.previous_x + ((self.x + sprite_width / 2 - camera_get_view_width(view_camera[0]) / 2 - self.previous_x) * inter)
-	var inter_y = self.previous_y + ((self.y + sprite_height / 2 - camera_get_view_height(view_camera[0]) / 2 - self.previous_y) * inter)
+	var inter_x = self.previous_x + ((self.x - camera_get_view_width(view_camera[0]) / 2 - self.previous_x) * inter)
+	var inter_y = self.previous_y + ((self.y - camera_get_view_height(view_camera[0]) / 2 - self.previous_y) * inter)
 	camera_set_view_pos(view_camera[0], inter_x, inter_y)
 	elapsed += 1
 }
@@ -82,21 +82,7 @@ playerMoving = false
  }
 	
 	
-// calculates the vector to the mouse from the player. 
-var vx = mouse_x - x
-var vy = mouse_y - y
 
-var magnitude = sqrt ((vx*vx) + (vy*vy))
-
-if (magnitude > 0) {
-	
-	unit_x = vx/magnitude
-	unit_y = vy/magnitude
-}
-
-var radians = arctan2(-unit_y, unit_x)
-playerDirection = radtodeg(radians)
-playerDirection = abs(playerDirection)
 
 
 //show_debug_message("Player Direction = " + string(playerDirection))

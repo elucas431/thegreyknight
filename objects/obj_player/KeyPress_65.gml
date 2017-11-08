@@ -8,4 +8,6 @@ if target_val != 1 {
 	x -= global.grid_width * global.scale_factor
 	self.grid_x -= 1
 	playerMoving = true
+	with obj_enemy { event_user(0) }
+
 }

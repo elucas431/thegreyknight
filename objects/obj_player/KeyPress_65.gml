@@ -10,6 +10,10 @@ if target_val == 0 {
 
 	self.grid_x -= 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+	ds_grid_set(global.map, grid_x, grid_y, 2)
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 	ds_grid_set(global.map, grid_x, grid_y, 2)
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94

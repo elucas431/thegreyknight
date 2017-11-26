@@ -1,6 +1,7 @@
 /* game step occurred */
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 show_debug_message("dx: " + string(abs(self.grid_x - obj_player.grid_x)))
 show_debug_message("dy: " + string(abs(self.grid_y - obj_player.grid_y)))
 
@@ -16,6 +17,9 @@ if (abs(self.x - obj_player.x) <= (global.grid_width + 1) * global.scale_factor 
 		alarm[0]=1
 	}
 }
+=======
+alarm[1] = 1
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 alarm[1] = 1
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94

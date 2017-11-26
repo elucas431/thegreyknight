@@ -15,7 +15,10 @@ if target_val == 0 {
 	playerMoving = true
 	with obj_enemy { event_user(0) }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 }

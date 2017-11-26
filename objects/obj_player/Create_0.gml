@@ -1,11 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /// @description Insert description here
 // You can write your code in this editor
 
  global.playerAction = 0
  canMelee = 1 
 =======
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 
@@ -23,7 +26,10 @@
 playerMoving = false 
 health = 100
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5ccfbfb25e392ecb722d38165f52fcdb54118462
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
  

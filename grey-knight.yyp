@@ -188,10 +188,14 @@
                 "id": "fa205520-755b-4078-b06c-7b481d16a16b",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "resourcePath": "objects\\obj_playerHitMask\\obj_playerHitMask.yy",
 =======
                 "resourcePath": "objects\\obj_playerHitCollison\\obj_playerHitCollison.yy",
 >>>>>>> 5ccfbfb25e392ecb722d38165f52fcdb54118462
+=======
+                "resourcePath": "objects\\obj_playerHitCollison\\obj_playerHitCollison.yy",
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
                 "resourcePath": "objects\\obj_playerHitCollison\\obj_playerHitCollison.yy",
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
@@ -201,11 +205,14 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "Key": "6b105afb-9ac3-40fa-a151-b79732456344",
             "Value": {
                 "id": "2ff3e9e1-2f75-471e-84aa-68588856deb5",
                 "resourcePath": "sprites\\spr_playerHitMask\\spr_playerHitMask.yy",
 =======
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
             "Key": "797f0c80-e138-4317-88f1-b4b776932612",
@@ -237,7 +244,10 @@
                 "id": "6f92d1fc-647b-47ac-a0b3-f8b049e0fb10",
                 "resourcePath": "sprites\\spr_damageBoost\\spr_damageBoost.yy",
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5ccfbfb25e392ecb722d38165f52fcdb54118462
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
                 "resourceType": "GMSprite"
@@ -297,8 +307,11 @@
                 "id": "b6b48e59-cfb6-499e-ae4f-0d8b9d0125c5",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "resourcePath": "sprites\\spr_playerHitLeft\\spr_playerHitLeft.yy",
 =======
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
                 "resourcePath": "sprites\\spr_playerHitRight\\spr_playerHitRight.yy",
@@ -319,7 +332,10 @@
                 "id": "e200670e-da17-4c6a-8701-8653790874c6",
                 "resourcePath": "sprites\\spr_healthP\\spr_healthP.yy",
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5ccfbfb25e392ecb722d38165f52fcdb54118462
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
                 "resourceType": "GMSprite"
@@ -344,7 +360,10 @@
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
             "Key": "ce864b5d-f3c5-464d-9063-3f10ec6a340b",
@@ -356,7 +375,10 @@
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5ccfbfb25e392ecb722d38165f52fcdb54118462
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 =======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
             "Key": "cee6e46e-8306-4849-95d0-93ed93edfa11",

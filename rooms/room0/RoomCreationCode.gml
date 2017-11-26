@@ -57,6 +57,7 @@ for (i=0; i<4; i+=1) {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 with instance_create_depth(14 * global.grid_width * global.scale_factor, 4 * global.grid_height * global.scale_factor - 4 * global.scale_factor, -200 - 4, obj_enemy) {
 	self.grid_x = 14;
 	self.grid_y = 4;
@@ -69,6 +70,8 @@ with instance_create_depth(4 * global.grid_width * global.scale_factor, 14 * glo
 
 
 =======
+=======
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 for (i=0; i<15; i+=1) {
 	var xx = irandom_range(0, 20);
 	var yy = irandom_range(0, 20);
@@ -98,5 +101,8 @@ for (i=0; i<15; i+=1) {
 
 
 
+<<<<<<< HEAD
+>>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
+=======
 >>>>>>> f30a0be94d23fc634fbfd1917007bc0e6021bf94
 
